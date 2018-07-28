@@ -15,6 +15,8 @@ Situated in the Bay Area, 42 is a revolutionary peer-to-peer educational center.
 # Projects Completed
 These are the projects I have completed during my time spent at 42, from April 2017 - June 2018. I've included repositories containing my work for most of the projects. For those I have not, they're either spaghetti or lost in the void.
 
+Projects marked with a :star: I am particularly proud of.
+
 ## Intro
 
 #### C Piscine
@@ -53,17 +55,17 @@ Given a map of coordinates and a ton of ants, implement a graph traversal algori
 Algorithms branch capstone project. Recreate the 1984 programming game. An assembler must be written to parse champion files written in pseudo-assembly into compiled byte code. We must also write the virtual machine through which our champion binaries are loaded to duke it out in a relentless game of memory elimination.
 
 ## Graphics Branch
-#### FdF (Wireframe)
+#### FdF (Wireframe) :star:
 Given a topographic coordinate map, write a program that generates a 3D graphical representation of the map.
 
 ([Repository](https://github.com/kraxx/42_FdF))
 
-#### Fractal
+#### Fractal :star:
 Write a program that generates and displays various fractals that can be mutated via mouse input, where the XY coordinates represent the real/complex numbers that comprise fractals.
 ([Repository](https://github.com/kraxx/42_fractal))
 
 ## Security Branch
-#### SSL DES
+#### SSL DES :star:
 Recode OpenSSL's implementation of the DES encryption algorithm.
 
 ([Repository](https://github.com/kraxx/42_ssl_des))
@@ -73,7 +75,7 @@ Recode OpenSSL's implementation of the DES encryption algorithm.
 Introduction to Docker through a collection of shell scripts and Dockerfiles. Covers the basics all the way up to deploying swarms and standalone containerized applications.
 
 ## Web Branch
-#### Camagru 
+#### Camagru :star2:
 Instagram clone. Though previously encouraged to be built in JavaScript and PHP with no frameworks, I decided to build it using modern frameworks. Built in React and Redux for the frontend, Node.js for the backend, and PostgreSQL for the database. Currently deployed to Google Cloud Platform.
 
 ([Web Page](https://camagru.jchow.club), [Repository](https://github.com/kraxx/Camagru))
@@ -86,13 +88,13 @@ The basics of web architecture, learned through PHP.
 
 ([Repository](https://github.com/kraxx/42_PHP_Piscine))
 
-#### C++ Piscine
+#### C++ Piscine :star:
 An intensive introduction to the wonderful world of Object Oriented Programming.
 Of particular note is the dope Asteroid-like space shooter a partner and I built over a weekend rush, check it out [here](https://github.com/kraxx/42_CPP_Piscine/tree/master/rush00)!
 
 ([Repository](https://github.com/kraxx/42_CPP_Piscine))
 
-#### Starfleet Piscine
+#### Starfleet Piscine :star:
 Introduces BigO notation and covers the fundamentals of popular whiteboard algorithms.
 
 #### Tensorflow Piscine
@@ -101,6 +103,6 @@ Completed a handful of Machine Learning challenges on Kaggle.
 
 ([Kaggle Kernels](https://www.kaggle.com/kraxximus/kernels))
 
-## Exams
+## Exams :star:
 C exams are held once every week. These exams are electronically graded akin to the ones held by popular coding challenge websites. There are currently 2 levels: beginner and intermediate. The beginner exam focuses on fundamental C concepts, whereas the intermediate exam focuses more on algorithms. Passing an exam entails obtaining a high aggregate score (75+ for beginner, 84+ for intermediate) across multiple attempts.
 I solved all the intermediate exam problems and created an answer key [here](https://github.com/kraxx/42_C_Exam_Intermediate)
