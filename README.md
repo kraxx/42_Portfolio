@@ -50,7 +50,7 @@ Implement an algorithm that takes a list of numbers and sorts it under very spec
 Given a map of coordinates and a ton of ants, implement a graph traversal algorithm to efficiently move all ants from start to finish.
 
 #### Core War
-Recreate the 1984 programming game. An assembler must be written to parse champion files written in pseudo-assembly into compiled byte code. We must also write the virtual machine through which our champion binaries are loaded to battle it out in a game of memory elimination.
+Algorithms branch capstone project. Recreate the 1984 programming game. An assembler must be written to parse champion files written in pseudo-assembly into compiled byte code. We must also write the virtual machine through which our champion binaries are loaded to duke it out in a relentless game of memory elimination.
 
 ## Graphics Branch
 #### FdF (Wireframe)
