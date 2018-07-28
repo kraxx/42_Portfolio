@@ -15,7 +15,7 @@ Situated in the Bay Area, 42 is a revolutionary peer-to-peer educational center.
 # Projects Completed
 These are the projects I have completed during my time spent at 42, from April 2017 - June 2018. I've included repositories containing my work for most of the projects. For those I have not, they're either spaghetti or lost in the void.
 
-Projects marked with a :star: I am particularly proud of.
+Projects marked with a :star: are ones I put extra effort into and am particularly proud of.
 
 ## Intro
 
@@ -64,6 +64,7 @@ Given a topographic coordinate map, write a program that generates a 3D graphica
 
 #### Fractal :star:
 Write a program that generates and displays various fractals that can be mutated via mouse input, where the XY coordinates represent the real/complex numbers that comprise fractals.
+
 ([Repository](https://github.com/kraxx/42_fractal))
 
 ## Security Branch
