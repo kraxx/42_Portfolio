@@ -19,10 +19,12 @@ These are the projects I have worked on and completed during my time spent at 42
 
 ##### C Piscine
 Before being accepted by the school, new students are entered into a 1 month intensive selection program called the Piscine (French for swimming pool), where only the most rigorous and tenacious are selected to enter the main program. Introduction to the C programming language and simple data structures.
+
 ([Repository](https://github.com/kraxx/42_C_Piscine))
 
 ##### Libft
 First project after starting the main program. We code our own library in lieu of using the C Standard Library. As we progress in the curriculum, new functions are constantly added to our personal libraries.
+
 ([Repository](https://github.com/kraxx/42_libft))
 
 ##### Fillit
@@ -35,6 +37,7 @@ Recode `getline` from the C Standard Library. A true test of rigor.
 
 ##### Printf
 Recode `printf` from the C Standard Library. A true test of endurance.
+
 ([Repository](https://github.com/kraxx/42_ft_printf))
 
 ##### Push Swap
@@ -52,6 +55,7 @@ Recreate the 1984 programming game. An assembler must be written to parse champi
 ### Graphics Branch
 ##### FdF (Wireframe)
 Given a topographic coordinate map, write a program that generates a 3D graphical representation of the map.
+
 ([Repository](https://github.com/kraxx/42_FdF))
 
 ##### Fractal
@@ -61,6 +65,7 @@ Write a program that generates and displays various fractals that can be mutated
 ### Security Branch
 ##### SSL DES
 Recode OpenSSL's implementation of the DES encryption algorithm.
+
 ([Repository](https://github.com/kraxx/42_ssl_des))
 
 ### DevOps Branch
@@ -70,19 +75,26 @@ Introduction to Docker through a collection of shell scripts and Dockerfiles. Co
 ### Web Branch
 ##### Camagru 
 Instagram clone. Though previously encouraged to be built in JavaScript and PHP with no frameworks, I decided to build it using modern frameworks. Built in React and Redux for the frontend, Node.js for the backend, and PostgreSQL for the database. Currently deployed to Google Cloud Platform.
+
 ([Web Page](https://camagru.jchow.club), [Repository](https://github.com/kraxx/Camagru))
 
 ### Piscines
 In addition to the C Piscine used as a selection period, 42 occasionally offers 2 week intensives that act as introductory crash courses to other programming paradigms.
+
 ##### PHP Piscine
 The basics of web architecture, learned through PHP.
+
 ([Repository](https://github.com/kraxx/42_PHP_Piscine))
+
 ##### C++ Piscine
 An intensive introduction to the wonderful world of Object Oriented Programming.
 Of particular note is the dope Asteroid-like space shooter a partner and I built over a weekend rush, check it out [here](https://github.com/kraxx/42_CPP_Piscine/tree/master/rush00)!
+
 ([Repository](https://github.com/kraxx/42_CPP_Piscine))
+
 ##### Starfleet Piscine
 Introduces BigO notation and covers the fundamentals of popular whiteboard algorithms.
+
 ##### Tensorflow Piscine
 Exactly as it sounds, a crash course on machine learning principles. Utilizes TensorFlow, Keras, and other frameworks written in Python.
 
