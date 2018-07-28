@@ -4,16 +4,16 @@ https://www.42.us.org/
 Situated in the Bay Area, 42 is a revolutionary peer-to-peer educational center. Projects are given to students as specifications written on PDFs. As there are no instructors, all information is gathered from peers or through internet research. Almost all projects are coded in C, following a strict coding guideline known as the "norm". The norm, in short, is a long list of restrictions on what we cannot do in our code.
 
 ##### A few norm highlights:
-- no for loops
+- no `for` loops
 - max 4 arguments per function
 - max 25 lines per function
-- very specific tab formatting
-- declarations/instantiations must be separate
-- no memory leaks
-- most importantly, no use of standard C functions outside of a select few (`write`, `malloc`, `free`, `open`, `read`), unless otherwise specified
+- incredibly specific tabulation
+- declarations and instantiations must be separate
+- no memory leaks, no segmentation faults, no exceptions
+- most importantly, no use of C Standard Library functions outside of a select few (`write`, `malloc`, `free`, `open`, `read`), unless otherwise specified
 
 ## Projects Completed
-These are the projects I have worked on and completed during my time spent at 42, from April 2017 - June 2018. I've included repositories containing my work for most of the projects. For those I have not, it's probably due to the code being spaghetti and I don't have the sense of urgency to fix 'em up.
+These are the projects I have completed during my time spent at 42, from April 2017 - June 2018. I've included repositories containing my work for most of the projects. For those I have not, it's probably due to the code being spaghetti and I don't have the sense of urgency to fix 'em up.
 
 ### Intro
 
@@ -23,12 +23,12 @@ Before being accepted by the school, new students are entered into a 1 month int
 ([Repository](https://github.com/kraxx/42_C_Piscine))
 
 ##### Libft
-First project after starting the main program. We code our own library in lieu of using the C Standard Library. As we progress in the curriculum, new functions are constantly added to our personal libraries.
+First project after starting the main program. We code our own library in lieu of using the C Standard Library, to use for the rest of our projects. As we progress in the curriculum, new functions are constantly added to our personal libraries.
 
 ([Repository](https://github.com/kraxx/42_libft))
 
 ##### Fillit
-The goal of fillit is to implement a very specific algorithm that packs a list of teris tetrominoes into the smallest square possible. Due to the nature of the rules, the only real solution is recursive backtracking.
+The goal of fillit is to implement a very specific algorithm that packs a list of teris tetrominoes (input) into the smallest square possible. Due to the nature of the rules, the only real solution is done through recursive backtracking.
 
 ##### Get Next Line
 Recode `getline` from the C Standard Library. A true test of rigor.
