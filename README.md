@@ -1,7 +1,7 @@
 # Portfolio - 42 Silicon Valley
 https://www.42.us.org/
 
-Situated in the Bay Area, 42 is a revolutionary peer-to-peer educational center. Projects are given to students as specifications written on PDFs. As there are no instructors, all information is gathered from peers or through internet research. Almost all projects are coded in C, following a strict coding guideline known as the "norm". The norm, in short, is a long list of restrictions on what we cannot do in our code.
+Situated in the Bay Area, 42 is a revolutionary peer-to-peer educational center. Projects are given to students as specifications written on PDFs. As there are no instructors, all information is gathered from peers or through internet research. Almost all projects are coded in C on macOS. By convention, certain functions are prefixed with "ft". Most projects are coded following a strict coding guideline known as the "norm". The norm, in short, is a long list of restrictions on what we cannot do in our code.
 
 ##### A few norm highlights:
 - no `for` loops
@@ -34,6 +34,8 @@ The goal of fillit is to implement a very specific algorithm that packs a list o
 
 #### Get Next Line
 Recode `getline` from the C Standard Library. A true test of rigor.
+
+([Repository](https://github.com/kraxx/42_Get_Next_Line))
 
 ## Algorithms Branch
 
