@@ -101,6 +101,6 @@ Completed a handful of Machine Learning challenges on Kaggle.
 
 ([Kaggle Kernels](https://www.kaggle.com/kraxximus/kernels))
 
-### Exams
+## Exams
 C exams are held once every week. These exams are electronically graded akin to the ones held by popular coding challenge websites. There are currently 2 levels: beginner and intermediate. The beginner exam focuses on fundamental C concepts, whereas the intermediate exam focuses more on algorithms. Passing an exam entails obtaining a high aggregate score (75+ for beginner, 84+ for intermediate) across multiple attempts.
 I solved all the intermediate exam problems and created an answer key [here](https://github.com/kraxx/42_C_Exam_Intermediate)
