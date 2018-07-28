@@ -13,7 +13,7 @@ Situated in the Bay Area, 42 is a revolutionary peer-to-peer educational center.
 - most importantly, no use of C Standard Library functions outside of a select few (`write`, `malloc`, `free`, `open`, `read`), unless otherwise specified
 
 # Projects Completed
-These are the projects I have completed during my time spent at 42, from April 2017 - June 2018. I've included repositories containing my work for most of the projects. For those I have not, it's probably due to the code being spaghetti and I don't have the sense of urgency to fix 'em up.
+These are the projects I have completed during my time spent at 42, from April 2017 - June 2018. I've included repositories containing my work for most of the projects. For those I have not, they're either spaghetti or lost in the void.
 
 ## Intro
 
