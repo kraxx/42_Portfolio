@@ -5,8 +5,9 @@ Situated in the Bay Area, 42 is a revolutionary peer-to-peer educational center.
 
 ##### A few norm highlights:
 - no `for` loops
-- max 4 arguments per function
+- max 84 characters per line
 - max 25 lines per function
+- max 4 arguments per function
 - incredibly specific tabulation
 - declarations and instantiations must be separate
 - no memory leaks, no segmentation faults, no exceptions
